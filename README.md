@@ -1,7 +1,7 @@
 # Course Information
 
-Course Information for DAT520 Distributed Systems.
-Minor and major changes will be updated here, and will informed on the discord channel for DAT520-2023.
+This repository contains the course information for DAT520 Distributed Systems.
+Minor and major changes will be updated here, and the information will be posted on the discord channel for DAT520-2023.
 
 ## Quick Links
 
