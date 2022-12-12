@@ -7,7 +7,7 @@ If you already run Linux or macOS on your laptop, you should be ready to go.
 Linux and macOS are to a large extent relatively similar at the command level.
 If you are running Windows, please consult the instructions [here](setup-wsl.md).
 
-However, we will also be using some machines in our Linux lab, named `pitter1` - `pitter20`,
+However, we will also be using some machines in our Linux lab, named `will come` - `will come`,
 through remote access; see below for more information about this.
 All necessary software for this course should be installed on these machines.
 
