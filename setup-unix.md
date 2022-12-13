@@ -7,7 +7,7 @@ If you already run Linux or macOS on your laptop, you should be ready to go.
 Linux and macOS are to a large extent relatively similar at the command level.
 If you are running Windows, please consult the instructions [here](setup-wsl.md).
 
-However, we will also be using some machines in our Linux lab, named `will come` - `will come`,
+However, we will also be using some machines in our Linux lab, named `gorina1` - `gorina3`,
 through remote access; see below for more information about this.
 All necessary software for this course should be installed on these machines.
 
@@ -22,6 +22,6 @@ For more rapid testing, you may also run networking code from different ports on
 Some of you may already have done this one:
 You will need a Unix account to access machines in the Linux lab.
 Get an account for UiS’ Unix system by following the instructions [here](http://user.ux.uis.no).
-Be sure to read the section **Using the UNIX system**.
+Be sure to read the section **Using the UNIX system**. The following serves `ssh1.ux.uis.no`, `ssh2.ux.uis.no` or `ssh3.ux.uis.no` can be used as log-in (jump) serves to reach `gorina1` - `gorina3`. 
 
 *It may take a while before you get access, but you can continue learning while you wait.*
