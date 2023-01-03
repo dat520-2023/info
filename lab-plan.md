@@ -1,5 +1,7 @@
 # Lab Plan for 2022
 
+For group assigments, the groups should consist of at least 2 members and at most 3 members
+
 | Lab | Topic                                                     | Grading          | Approval             | Submission              | Deadline          |
 |:---:|-----------------------------------------------------------|------------------|----------------------|-------------------------|-------------------|
 | 1 | [Getting Started][1] | Pass/fail | Automatic | Individually | January 23 |

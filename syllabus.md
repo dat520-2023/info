@@ -28,7 +28,7 @@ You should have a deep understanding of the Paxos algorithm (single and multi).
 - Paxos Made Simple, Leslie Lamport
 - Paxos Made Insanely Simple, Hein Meling
 
-Available here: https://github.com/dat520-2022/assignments/tree/master/lab4/resources
+Available here: https://github.com/dat520-2023/assignments/tree/master/lab4/resources
 
 <!--- 
 
