@@ -57,14 +57,14 @@ Here are two short videos describing these steps: [Part 1](https://youtu.be/3KJm
 4. You will then be invited to the course organization on GitHub and two separate repositories.
    You will need to navigate to each of these links and accept these invitations:
 
-   - Navigate to the course organization [COURSE_TAG](https://github.com/COURSE_TAG) accept the invitation.
-   - Navigate to the [assignments](https://github.com/COURSE_TAG/assignments) repository and accept the invitation.
-   - Navigate to your private <https://github.com/COURSE_TAG/username-labs> repository and accept the invitation. Remember to replace `username` in this link with your own GitHub `username`.
+   - Navigate to the course organization [dat520-2023](https://github.com/dat520-2023) accept the invitation.
+   - Navigate to the [assignments](https://github.com/dat520-2023/assignments) repository and accept the invitation.
+   - Navigate to your private <https://github.com/dat520-2023/username-labs> repository and accept the invitation. Remember to replace `username` in this link with your own GitHub `username`.
 
    Several invitation emails will also be sent to the email address associated with your GitHub account.
    However, emails from GitHub can sometimes take a while to arrive.
 
-5. Once you have accepted the invitations, you will get your own repository under `COURSE_TAG`, which is the course's organization on GitHub.
+5. Once you have accepted the invitations, you will get your own repository under `dat520-2023`, which is the course's organization on GitHub.
 
 ## Group Signup on QuickFeed
 
@@ -98,5 +98,3 @@ Here are two short videos describing these steps: [Part 1](https://youtu.be/3KJm
    You can skip this step if you already have an account.
 
 2. To join the course Discord server, navigate [here](https://discord.gg/5X52QQY47T).
-
-
