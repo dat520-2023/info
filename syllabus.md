@@ -9,26 +9,31 @@ All lab assignments are syllabus.
 Available here: https://github.com/dat520-2023/assignments
 
 ## Textbook
-The official textbook for the course is RDP: Introduction to Reliable and Secure Distributed Programming, Christian Cachin, Rachid Guerraoui, and LuÌs Rodrigues, 2nd ed. Springer, 2011. The following chapters are syllabus: 1, 2, 3, 4, 5, 6. 
-The lecture notes and exercises are syllabus.
+The official textbook for the course is RDP: Introduction to Reliable and Secure Distributed Programming, Christian Cachin, Rachid Guerraoui, and LuÌs Rodrigues, 2nd ed. Springer, 2011. The following chapters are syllabus: 
+- Chapter 1: Whole
+- Chapter 2: Whole
+- Chapter 3: 3.1,3.2,3.3, 3.4, 3.5, 3.8, 3.9
+- Chapter 4: 4.1,4.2,4.3,4.4
+- Chapter 5: 5.1,5.2,5.3 + Paxos and Raft algorithms (lectures and self-studies)
+- Chapter 6: 6.1,6.7,6.8
+
+The lecture notes and exercises are also syllabus.
 
 Available online: https://link.springer.com/book/10.1007/978-3-642-15260-3
 
 ## Required reading
-- Comes here
+- Paxos Explained from Scratch, Hein Meling and Leander Jehl
+- Paxos Made Simple, Leslie Lamport
+- Paxos Made Insanely Simple, Hein Meling
+- Raft https://raft.github.io/raft.pdf
 
-Available on Canvas.
+Available here: https://github.com/dat520-2023/assignments/tree/master/lab4/resources
 
 
 ## Paxos algorithm
 You should have a deep understanding of the Paxos algorithm (single and multi).
 
 ### Resources
-- Paxos Explained from Scratch, Hein Meling and Leander Jehl
-- Paxos Made Simple, Leslie Lamport
-- Paxos Made Insanely Simple, Hein Meling
-
-Available here: https://github.com/dat520-2023/assignments/tree/master/lab4/resources
 
 <!--- 
 
