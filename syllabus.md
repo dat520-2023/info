@@ -30,10 +30,8 @@ Available online: https://link.springer.com/book/10.1007/978-3-642-15260-3
 Available here: https://github.com/dat520-2023/assignments/tree/master/lab4/resources
 
 
-## Paxos algorithm
-You should have a deep understanding of the Paxos algorithm (single and multi).
+NB! You should have a deep understanding of the Paxos algorithm (single and multi).
 
-### Resources
 
 <!--- 
 
