@@ -15,7 +15,7 @@ The official textbook for the course is RDP: Introduction to Reliable and Secure
 - Chapter 3: 3.1,3.2,3.3, 3.4, 3.5, 3.8, 3.9
 - Chapter 4: 4.1,4.2,4.3,4.4
 - Chapter 5: 5.1,5.2,5.3 + Paxos and Raft algorithms (lectures and self-studies)
-- Chapter 6: 6.1,6.7,6.8
+- Chapter 6: 6.1,6.3,6.6,6.7,6.8
 
 The lecture notes and exercises are also syllabus.
 
